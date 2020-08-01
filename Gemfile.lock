@@ -4,6 +4,7 @@ GEM
     rack (2.1.4)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
+    require_relative (1.0.3)
 
 PLATFORMS
   ruby
@@ -11,6 +12,7 @@ PLATFORMS
 DEPENDENCIES
   rack
   rack-test
+  require_relative (~> 1.0, >= 1.0.3)
 
 BUNDLED WITH
-   2.0.1
+   2.1.4
